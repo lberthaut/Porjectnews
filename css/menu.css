@@ -1,1 +1,1 @@
-menu{width:100%;height:25px;background-color:#7d6e99;margin:0;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:space-evenly;vertical-align:middle}.menu_selection{margin:0;padding-top:0.2%}.menu_selection:hover{cursor:pointer}.menu_selection:active{color:white}
+menu{width:100%;height:25px;background-color:#7d6e99;margin:0;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:space-evenly;vertical-align:middle}.selection_style{margin:0;padding-top:0.1%;font-size:125%}.selection_style:hover{cursor:pointer}.selection_style:active{color:white}
